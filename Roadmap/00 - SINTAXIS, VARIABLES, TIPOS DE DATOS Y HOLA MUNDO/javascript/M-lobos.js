@@ -87,7 +87,7 @@ console.log(`Este es un objeto que representa un animal. Es un ${amAnObject.nomb
 
 //Salida por consola del lenguaje seleccionado
 const selectedLang = "JavaScript";
-console.log(`¡Hola, ${selectedLang}!`);
+console.log(`¡¡¡Hola, ${selectedLang}!!!`); 
 
 
 
