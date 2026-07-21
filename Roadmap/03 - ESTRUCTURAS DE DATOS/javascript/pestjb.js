@@ -245,6 +245,9 @@ function eliminarContacto(){
        console.log("\nel contacto has sido eliminado correctamente")
        return mostrarMenu()
      }  
+     else{
+            console.log("\nEl contacto no existe")
+     }
     })
 }
 
